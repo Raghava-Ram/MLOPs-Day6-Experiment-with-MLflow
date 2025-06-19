@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/9321adbf5c974feba2409483bb163982/artifacts
+end_time: 1750337668116
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 9321adbf5c974feba2409483bb163982
+run_name: masked-goose-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668051
+status: 3
+tags: []
+user_id: ragha

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/a0d9e192ba4040adb1382e6142d346d9/artifacts
+end_time: 1750312283975
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: a0d9e192ba4040adb1382e6142d346d9
+run_name: redolent-slug-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312283929
+status: 3
+tags: []
+user_id: ragha

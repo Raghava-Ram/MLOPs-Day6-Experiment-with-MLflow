@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/models/m-29a4d653265c45f5bf5297893f01f700/artifacts
+creation_timestamp: 1750311686779
+experiment_id: '927558637694992902'
+last_updated_timestamp: 1750311691751
+model_id: m-29a4d653265c45f5bf5297893f01f700
+model_type: null
+name: random_forest
+source_run_id: f265cac952bc40ce8b8f2e3f31973282
+status: 2
+status_message: null

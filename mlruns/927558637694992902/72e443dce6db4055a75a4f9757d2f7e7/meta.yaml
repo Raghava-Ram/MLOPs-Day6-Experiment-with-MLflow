@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/72e443dce6db4055a75a4f9757d2f7e7/artifacts
+end_time: 1750337668187
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 72e443dce6db4055a75a4f9757d2f7e7
+run_name: puzzled-finch-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668124
+status: 3
+tags: []
+user_id: ragha

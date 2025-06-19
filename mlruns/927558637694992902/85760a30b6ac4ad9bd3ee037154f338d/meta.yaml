@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/85760a30b6ac4ad9bd3ee037154f338d/artifacts
+end_time: 1750311395552
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 85760a30b6ac4ad9bd3ee037154f338d
+run_name: merciful-hawk-408
+run_uuid: 85760a30b6ac4ad9bd3ee037154f338d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750311391842
+status: 4
+tags: []
+user_id: ragha

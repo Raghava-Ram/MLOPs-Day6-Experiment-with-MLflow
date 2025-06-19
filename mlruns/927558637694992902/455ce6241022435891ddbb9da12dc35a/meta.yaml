@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/455ce6241022435891ddbb9da12dc35a/artifacts
+end_time: 1750337668821
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 455ce6241022435891ddbb9da12dc35a
+run_name: languid-bat-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668771
+status: 3
+tags: []
+user_id: ragha

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/4e49e94504a244e4b10a034603fa138a/artifacts
+end_time: 1750337668556
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 4e49e94504a244e4b10a034603fa138a
+run_name: sincere-midge-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668495
+status: 3
+tags: []
+user_id: ragha

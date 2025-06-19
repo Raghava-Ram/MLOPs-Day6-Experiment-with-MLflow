@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/5719b34458ed474f8158ea2ab1ba9030/artifacts
+end_time: 1750312283734
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 5719b34458ed474f8158ea2ab1ba9030
+run_name: carefree-gull-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312283686
+status: 3
+tags: []
+user_id: ragha

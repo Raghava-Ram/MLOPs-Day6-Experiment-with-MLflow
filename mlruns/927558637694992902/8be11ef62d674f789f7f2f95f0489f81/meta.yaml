@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/8be11ef62d674f789f7f2f95f0489f81/artifacts
+end_time: 1750337668349
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 8be11ef62d674f789f7f2f95f0489f81
+run_name: resilient-deer-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668280
+status: 3
+tags: []
+user_id: ragha

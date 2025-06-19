@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/f3fafe945a1a4bb79bbdf39fc93cff32/artifacts
+end_time: 1750337668706
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: f3fafe945a1a4bb79bbdf39fc93cff32
+run_name: placid-grouse-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668656
+status: 3
+tags: []
+user_id: ragha

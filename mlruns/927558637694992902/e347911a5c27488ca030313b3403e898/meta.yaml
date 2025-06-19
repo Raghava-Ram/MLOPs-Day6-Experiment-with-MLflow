@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/e347911a5c27488ca030313b3403e898/artifacts
+end_time: 1750337937636
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: e347911a5c27488ca030313b3403e898
+run_name: salty-zebra-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337937582
+status: 3
+tags: []
+user_id: ragha

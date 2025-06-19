@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/af60bf453bdb4c3690be1813aa8cbf6f/artifacts
+end_time: 1750337937782
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: af60bf453bdb4c3690be1813aa8cbf6f
+run_name: upbeat-cub-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337937727
+status: 3
+tags: []
+user_id: ragha

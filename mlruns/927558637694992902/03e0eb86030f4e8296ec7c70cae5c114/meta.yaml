@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/03e0eb86030f4e8296ec7c70cae5c114/artifacts
+end_time: 1750312284119
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 03e0eb86030f4e8296ec7c70cae5c114
+run_name: delightful-seal-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312284072
+status: 3
+tags: []
+user_id: ragha

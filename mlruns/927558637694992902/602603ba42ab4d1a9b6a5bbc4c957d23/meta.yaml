@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/602603ba42ab4d1a9b6a5bbc4c957d23/artifacts
+end_time: 1750337937903
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 602603ba42ab4d1a9b6a5bbc4c957d23
+run_name: awesome-turtle-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337937861
+status: 3
+tags: []
+user_id: ragha

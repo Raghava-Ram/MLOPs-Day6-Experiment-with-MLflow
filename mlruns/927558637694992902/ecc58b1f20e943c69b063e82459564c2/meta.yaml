@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/ecc58b1f20e943c69b063e82459564c2/artifacts
+end_time: 1750337938205
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: ecc58b1f20e943c69b063e82459564c2
+run_name: beautiful-bee-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337938147
+status: 3
+tags: []
+user_id: ragha

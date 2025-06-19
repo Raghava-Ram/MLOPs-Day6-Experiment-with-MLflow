@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/036b774b558740f7a2050f7ba8de0d74/artifacts
+end_time: 1750337668038
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 036b774b558740f7a2050f7ba8de0d74
+run_name: melodic-mole-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337667957
+status: 3
+tags: []
+user_id: ragha

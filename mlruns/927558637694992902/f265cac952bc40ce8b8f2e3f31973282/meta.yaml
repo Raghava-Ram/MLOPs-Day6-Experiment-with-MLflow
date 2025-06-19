@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/f265cac952bc40ce8b8f2e3f31973282/artifacts
+end_time: 1750311691773
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: f265cac952bc40ce8b8f2e3f31973282
+run_name: flawless-stork-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750311681439
+status: 3
+tags: []
+user_id: ragha

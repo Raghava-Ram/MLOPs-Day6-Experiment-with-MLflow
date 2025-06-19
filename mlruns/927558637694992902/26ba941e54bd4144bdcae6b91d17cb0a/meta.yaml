@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/26ba941e54bd4144bdcae6b91d17cb0a/artifacts
+end_time: 1750312283829
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 26ba941e54bd4144bdcae6b91d17cb0a
+run_name: rare-bear-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312283782
+status: 3
+tags: []
+user_id: ragha

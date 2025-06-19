@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/db5fc5ed595549479ec7a75040242cd9/artifacts
+end_time: 1750337668276
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: db5fc5ed595549479ec7a75040242cd9
+run_name: popular-koi-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668209
+status: 3
+tags: []
+user_id: ragha

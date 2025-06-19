@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/ec9cd719e6954cbe9b5bec599f89e8f5/artifacts
+end_time: 1750337668753
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: ec9cd719e6954cbe9b5bec599f89e8f5
+run_name: sneaky-grub-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668712
+status: 3
+tags: []
+user_id: ragha

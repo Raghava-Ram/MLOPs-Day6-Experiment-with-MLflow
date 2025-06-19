@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Desktop/MLOPs/MLOPs-Day6-Experiment-with-MLflow/mlruns/927558637694992902/560b25c066f2493fbfbebb0c59cf6937/artifacts
+end_time: 1750337668416
+entry_point_name: ''
+experiment_id: '927558637694992902'
+lifecycle_stage: active
+run_id: 560b25c066f2493fbfbebb0c59cf6937
+run_name: bald-hog-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337668355
+status: 3
+tags: []
+user_id: ragha
