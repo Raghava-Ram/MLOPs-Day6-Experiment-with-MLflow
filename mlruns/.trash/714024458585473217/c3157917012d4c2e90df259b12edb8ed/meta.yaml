@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714024458585473217/c3157917012d4c2e90df259b12edb8ed/artifacts
+end_time: 1749998492567
+entry_point_name: ''
+experiment_id: '714024458585473217'
+lifecycle_stage: active
+run_id: c3157917012d4c2e90df259b12edb8ed
+run_name: thoughtful-moose-640
+run_uuid: c3157917012d4c2e90df259b12edb8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749998491857
+status: 3
+tags: []
+user_id: ragha

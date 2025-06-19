@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/790b855081f040be8109a0eda9624cc3/artifacts
+end_time: 1749872305089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 790b855081f040be8109a0eda9624cc3
+run_name: suave-steed-345
+run_uuid: 790b855081f040be8109a0eda9624cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749872304509
+status: 3
+tags: []
+user_id: ragha

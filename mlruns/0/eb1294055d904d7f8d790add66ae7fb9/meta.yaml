@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eb1294055d904d7f8d790add66ae7fb9/artifacts
+end_time: 1749833766792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1294055d904d7f8d790add66ae7fb9
+run_name: rogue-toad-482
+run_uuid: eb1294055d904d7f8d790add66ae7fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749833766717
+status: 3
+tags: []
+user_id: ragha

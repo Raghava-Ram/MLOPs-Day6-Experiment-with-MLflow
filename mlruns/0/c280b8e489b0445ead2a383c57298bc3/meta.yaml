@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c280b8e489b0445ead2a383c57298bc3/artifacts
+end_time: 1749871767566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c280b8e489b0445ead2a383c57298bc3
+run_name: beautiful-ray-460
+run_uuid: c280b8e489b0445ead2a383c57298bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749871766862
+status: 3
+tags: []
+user_id: ragha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2b459f749d854ff39db6ab50271682cd/artifacts
+end_time: 1749835770323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b459f749d854ff39db6ab50271682cd
+run_name: capable-ape-505
+run_uuid: 2b459f749d854ff39db6ab50271682cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749835769733
+status: 3
+tags: []
+user_id: ragha

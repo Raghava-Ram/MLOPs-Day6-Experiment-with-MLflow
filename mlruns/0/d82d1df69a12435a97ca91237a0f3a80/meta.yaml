@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d82d1df69a12435a97ca91237a0f3a80/artifacts
+end_time: 1749834186947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d82d1df69a12435a97ca91237a0f3a80
+run_name: amazing-crow-983
+run_uuid: d82d1df69a12435a97ca91237a0f3a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749834186884
+status: 3
+tags: []
+user_id: ragha

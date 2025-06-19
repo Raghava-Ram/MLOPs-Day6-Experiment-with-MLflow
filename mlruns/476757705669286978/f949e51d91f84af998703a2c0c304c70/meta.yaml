@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/476757705669286978/f949e51d91f84af998703a2c0c304c70/artifacts
+end_time: 1749999713438
+entry_point_name: ''
+experiment_id: '476757705669286978'
+lifecycle_stage: active
+run_id: f949e51d91f84af998703a2c0c304c70
+run_name: rumbling-skunk-719
+run_uuid: f949e51d91f84af998703a2c0c304c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749999704186
+status: 3
+tags: []
+user_id: ragha
